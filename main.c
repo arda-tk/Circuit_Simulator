@@ -4,11 +4,13 @@
 * Simple Analog Circuit Simulator Coded in C
 *
 * Group Members:
-*               Arda Tanil Kers�
+*               Arda Tanil Kersu
 *               Zehra Deniz Salman
+*               Can Rollas
 *
 * Advisor:
-*         Abdurrahman G�m�s
+*         Abdurrahman Gumus
+*         Md Salam
 */
 
 #include <stdio.h>

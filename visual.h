@@ -18,5 +18,7 @@
 void userManual();
 void initializeMap();
 boolean navigate();
+void testResistive(void);
+void testRLC(void);
 
 #endif // _visual_c_
